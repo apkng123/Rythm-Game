@@ -1,0 +1,9 @@
+﻿  gameplay.c
+  keysetting.c
+C:\Users\user\OneDrive\바탕 화면\Beat-C-main\Beat-C-main\Sources\keysetting.c(15,1): warning C4005: 'LINE': 매크로 재정의
+C:\Users\user\OneDrive\바탕 화면\Beat-C-main\Beat-C-main\Sources\main.h(13,1): message : 'LINE'의 이전 정의를 참조하십시오.
+  main.c
+  selectmap.c
+  title.c
+  코드를 생성하고 있습니다...
+  Beat-C.vcxproj -> C:\Users\user\OneDrive\바탕 화면\Beat-C-main\Beat-C-main\x64\Debug\Beat-C.exe
